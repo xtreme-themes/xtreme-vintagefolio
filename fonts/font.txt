@@ -1,0 +1,2 @@
+Download the font at http://www.fontsquirrel.com/fontfacedemo/bebas-neue
+and put the extractedfiles into folder fonts.

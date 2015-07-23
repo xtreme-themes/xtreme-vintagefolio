@@ -1,0 +1,31 @@
+/**
+ * Xtreme Vintagefolio Responsive Stylesheet
+ *
+ * @copyright       Copyright 2014 Inpsyde GmbH
+ * @license         see http://marketpress.com/agb/
+ * @link            http://marketpress.com/product/xtreme/
+ * @package         xtreme-one
+**/
+@media screen and (max-width: 760px){
+
+	#header {
+		background:none;
+	}
+
+	.shinybuttons .ym-hlist ul li a {
+		color: #000;
+	}
+
+
+	#primarynav ul li {
+		float:none !important;
+	}
+
+	/* showing the submenus */
+	.sf-menu ul li,
+	.sub-menu {
+		background: none !important;
+		border: none !important;
+	}
+
+}
